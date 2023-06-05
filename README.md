@@ -1,34 +1,16 @@
-# Nextjs Tailwind Blog
+# CY's Blog by Ally 。 前端 。
 
-## tempalte
+Forked from the excellent [狂奔小马的博客](https://github.com/maqi1520/nextjs-tailwind-blog)
 
-https://github.com/timlrx/tailwind-nextjs-starter-blog
+## About tempalte
 
-## 技术栈
+This is a [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) blog built on a template from [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog).
 
-- Next.js
-- Tailwind CSS 3.0
+## About Features
 
-## 使用静态博客的原因
+- Easy styling customization with Tailwind 3.0 and primary color attribute
+- Light and dark theme
 
-我写博客，需要将博客同步到知乎、掘金、微信公众号等、一是这些平台的代码编辑器不怎么好用，尤其是图片会加上水印、后来我选择自建使用 Postgresql 和 next.js、但维护这些数据库需要一些成本、为了避免每年数据库迁移、现在将代码都托管到 github、使用 vercel.com 自动部署
+## 👋🏻 CY's Blog
 
-## Installation
-
-```bash
-npm install
-```
-
-## Development
-
-First, run the development server:
-
-```bash
-npm start
-```
-
-or
-
-```bash
-npm run dev
-```
+一邊學習，一邊運用。

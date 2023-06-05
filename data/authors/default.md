@@ -1,21 +1,18 @@
 ---
-name: 狂奔滴小马
-avatar: /static/images/avatar.png
+name: C.Y. YEH (ALLY)
+avatar: /static/images/cy-avatar.png
 occupation: 前端工程师
-company: 分享 JavaScript 热门框架，记录前端工程师学习成长历程。
-email: maqi1520@163.com
-juejin: https://juejin.cn/user/2189882895384093
-zhihu: https://www.zhihu.com/people/xiao-ma-15-3
-github: https://github.com/maqi1520
+company: ～分享、記錄學習的知識與心得～
+email: a2623212@gmail.com
+juejin:
+zhihu:
+github: https://github.com/a2623212
 ---
 
-- 姓名：马琪斌
-- 昵称：狂奔滴小马
-- 座右铭：你不一定要很厲害，才能開始；但你要開始，才能很厲害
-- 我是一名前端工程师，也是一名 Javascript 全栈开发者，长期关注前端工程化，开发体验优化等方向，近期对低代码、微前端、serverless、vite 有浓厚兴趣并实践中
-- 坐标：杭州
-- skill：
-  - 前端：React、ES6/7/8、Antd、Axios、Tailwindcss
-  - 服务端：Next.js、Koa2、Prisma、Typeorm
-  - 数据库：Mysql、Postgresql
-  - 其他：Webpack、Vite、Typescript、Serverless
+- 姓名：Ally Yeh
+- 居住地：住在日本的台灣人
+- 技能樹：
+  - 前端：HTML, CSS, JavaScript
+  - 框架：React, Vue
+  - 語言：TOEIC 950, JLPT N2
+- 關於我：曾是一個不務專業的法律人，跳出名為「律師」的舒適圈，持續為轉職為軟體工程師這件事努力著，作為一個 Junior，辛苦但快樂著。
