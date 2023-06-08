@@ -27,7 +27,7 @@ export default function Article({ slug, date, title, summary, tags, images }: Po
                 </Link>
               </dt>
             ) : null}
-            <dd className="sr-only">发布时间</dd>
+            <dd className="sr-only">發佈時間</dd>
             <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
               <time dateTime={date}>{formatDate(date)}</time>
             </dd>

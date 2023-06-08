@@ -96,7 +96,7 @@ export default function PostLayout(props: Props) {
                 </dd>
               </dl>
               <h2 className="pt-6 text-xs font-bold uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                目录
+                目錄
               </h2>
               <TOCInline asDisclosure={false} toc={props.toc} />
             </div>
@@ -115,12 +115,12 @@ export default function PostLayout(props: Props) {
                     alt="runjs-cool"
                     width={384}
                     height={140}
-                    src={`/static/images/runjs-cool.webp`}
+                    src="https://chih-yuu.me/wp-content/uploads/2021/11/CY-photo-1.png"
                   />
                 </div>
 
-                <span>关注微信公众号，获取最新原创文章（首发）</span>
-                <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
+                <span></span>
+                <Link href=""></Link>
               </div>
               <Comments frontMatter={frontMatter} />
             </div>
